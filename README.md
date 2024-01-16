@@ -37,7 +37,7 @@ For support, questions, or feedback, please visit our [Support Page](https://www
 
 ## License
 
-Glitter is licensed under [a proprietary license](LICENSE.txt). For more details, see the LICENSE file.
+Glitter is licensed under [a proprietary license](LICENSE). For more details, see the LICENSE file.
 
 ---
 
