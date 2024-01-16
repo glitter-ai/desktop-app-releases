@@ -1,0 +1,35 @@
+LICENSE
+
+COPYRIGHT © 2024 Glitter AI, Inc. All Rights Reserved.
+
+1. Introduction
+This software ("Software") is provided by Glitter AI, Inc. ("Glitter", "Company", "we", "us", "our"). The use of this Software is subject to the terms and conditions outlined in this License Agreement ("Agreement"). By using the Software, you ("User", "you") agree to be bound by the terms of this Agreement.
+
+2. Grant of License
+We grant you a non-exclusive, non-transferable, limited license to use the Software solely as part of the main Glitter application ("Authorized Application"). This license is conditional upon your compliance with the terms and conditions of this Agreement.
+
+3. Restrictions
+You may not, nor may you permit others to:
+a) Copy, modify, distribute, sell, or lease any part of our Software.
+b) Reverse engineer, disassemble, decompile, or attempt to extract the source code of the Software.
+c) Use the Software for any purpose other than as integrated into the Authorized Application.
+d) Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices affixed to or contained within the Software.
+
+4. Ownership
+The Software is proprietary to the Company and is protected by intellectual property laws and treaties. The Company or its licensors own all rights, title, and interest in and to the Software, including all associated intellectual property rights.
+
+5. No Warranties
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+6. Limitation of Liability
+In no event shall the Company be liable for any direct, indirect, incidental, special, consequential, or punitive damages whatsoever arising out of or related to your use of or inability to use the Software.
+
+7. Termination
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from the Company if you fail to comply with any of its terms. Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+8. General
+This Agreement constitutes the entire agreement between you and the Company relating to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+COPYRIGHT © 2024 Glitter AI, Inc. All Rights Reserved.
