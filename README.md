@@ -16,7 +16,7 @@ Welcome to the official GitHub repository for the Glitter Desktop App! Glitter i
 ## Getting Started
 
 1. **Installation**
-    - Download the latest version of Glitter for Windows or Mac from [Glitter Downloads](https://www.glitter.io/downloads).
+    - Download the latest version of Glitter for Windows or Mac from [Glitter Downloads](https://www.glitter.io/app/download).
     - Follow the installation instructions to set up Glitter on your desktop.
 
 2. **Creating Your First Guide**
